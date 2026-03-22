@@ -19,3 +19,7 @@ Personal development log — notes, findings, and ongoing work.
 - Reviewed codebase, identified areas for improvement
 - Bumped patch version
 - Noted known limitation in docs
+
+## 2026-03-23
+- Added basic retry logic for network requests
+- Updated .gitignore to exclude build artifacts
